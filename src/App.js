@@ -4,7 +4,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { Download, Gallery, Slider, Service } from './components';
 import Layout from './components/layout';
 import { workData, secondWorkData } from './data';
-import { StickyProvider } from './contexts/app/app.provider';
+// import { StickyProvider } from './contexts/app/app.provider';
 
 
 function App() {
