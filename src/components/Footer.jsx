@@ -43,7 +43,7 @@ function Footer() {
         <div className="col-md-4">
           <div className="single_links d-flex justify-content-between align-items-center">
             <span>LinkedIn</span>
-            <a href="https://www.linkedin.com/in/nnadi-daniel-643010176/" target="_blank" rel='noreferrer'> </a>
+            <a target="_blank" href="https://www.linkedin.com/in/nnadi-daniel-643010176/" rel='noreferrer'> </a>
           </div>
         </div>
         <div className="col-md-4">
