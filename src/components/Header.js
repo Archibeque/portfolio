@@ -141,11 +141,8 @@ function Header() {
 
     const isSticky = (e) => {
         const header = document.querySelector('.header-area');
-        console.log(header)
         const scrollTop = window.scrollY;
-        scrollTop >= 250 ? header.classList.add('isSticky') : header.classList.remove('isSticky');
-        console.log(header.classList)
-    
+        scrollTop >= 250 ? header.classList.add('isSticky') : header.classList.remove('isSticky');   
     };
   return (
     
@@ -175,7 +172,6 @@ function Header() {
                                                 duration={500}>
                                                 home</Link>
                                             </li>
-                                            <li><a target="_blank" href="Nnadi_Daniel_Cv.pdf">Resume</a></li>
                                             <li>
                                                 <Link style={{cursor: "pointer"}} to="services" 
                                                     activeClass="active"
@@ -196,6 +192,8 @@ function Header() {
                                                 Contact
                                                 </Link>
                                             </li>
+                                            <li><a target="_blank" href="GADS-Certificate2020.pdf">Certificate</a></li>
+
                                         </ul>
                                     </nav>
                                 </div>
