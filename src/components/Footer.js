@@ -42,20 +42,18 @@ function Footer() {
       <div className="row">
         <div className="col-md-4">
           <div className="single_links d-flex justify-content-between align-items-center">
-            <span>LinkedIn</span>
-            <a target="_blank" href="https://www.linkedin.com/in/nnadi-daniel-643010176/" rel='noreferrer'> </a>
+          
+            <a target="_blank" href="https://www.linkedin.com/in/nnadi-daniel-643010176/" rel='noreferrer'><span>LinkedIn</span></a>
           </div>
         </div>
         <div className="col-md-4">
           <div className="single_links d-flex justify-content-between align-items-center">
-            <span>Github</span>
-            <a href="https://github.com/nnadidan360" target="_blank" rel='noreferrer'> <i className="fa fa-github" /> </a>
+            <a href="https://github.com/nnadidan360" target="_blank" rel='noreferrer'> <i className="fa fa-github" /><span>Github</span> </a>
           </div>
         </div>
         <div className="col-md-4">
           <div className="single_links d-flex justify-content-between align-items-center">
-            <span>Twitter</span>
-            <a href="https://twitter.com/NnadiDaniel6" target="_blank" rel='noreferrer'> <i className="fa fa-twitter" /> </a>
+            <a href="https://twitter.com/NnadiDaniel6" target="_blank" rel='noreferrer'> <i className="fa fa-twitter" /><span>Twitter</span></a>
           </div>
         </div>
         {/* <div className="col-md-3">
