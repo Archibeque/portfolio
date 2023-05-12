@@ -110,6 +110,15 @@ function Download() {
           </div>
           <div className="single_progress">
             <div className="label d-flex justify-content-between">
+              <span>Python(Flask)</span>
+              <span>90%</span>
+            </div>
+            <div className="progress">
+              <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={25} aria-valuemin={0} aria-valuemax={100} />
+            </div>
+          </div>
+          <div className="single_progress">
+            <div className="label d-flex justify-content-between">
               <span>Firebase</span>
               <span>90%</span>
             </div>
