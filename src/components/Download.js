@@ -22,7 +22,7 @@ function Download() {
             make user reports better while meeting up with commercial and enterprise desires and 
             standards.
           </p>
-          <a className="boxed-btn3-line" href="Nnadi_Daniel_Cv.pdf" download="Nnadi_Daniel_Cv.pdf">Download CV</a>
+          <a className="boxed-btn3-line" href="Nnadidan.pdf" download="Nnadi_Daniel_Cv.pdf">Download CV</a>
         </div>
       </div>
       <div className="col-lg-5 offset-lg-1 col-md-6">
