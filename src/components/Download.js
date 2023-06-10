@@ -22,7 +22,7 @@ function Download() {
             make user reports better while meeting up with commercial and enterprise desires and 
             standards.
           </p>
-          <a className="boxed-btn3-line" href="Nnadidan.pdf" download="Nnadidan.pdf">Download CV</a>
+          <a className="boxed-btn3-line" href="Nnadidan_Fullstack.pdf" download="Nnadidan_Fullstack.pdf">Download CV</a>
         </div>
       </div>
       <div className="col-lg-5 offset-lg-1 col-md-6">
@@ -56,6 +56,16 @@ function Download() {
           </div>
           <div className="single_progress">
             <div className="label d-flex justify-content-between">
+              <span>Styled-Components, Tailwind css</span>
+              <span>90%</span>
+            </div>
+            <div className="progress">
+              <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={25} aria-valuemin={0} aria-valuemax={100} />
+            </div>
+          </div>
+
+          <div className="single_progress">
+            <div className="label d-flex justify-content-between">
               <span>React</span>
               <span>90%</span>
             </div>
@@ -72,15 +82,7 @@ function Download() {
               <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={25} aria-valuemin={0} aria-valuemax={100} />
             </div>
           </div>
-          <div className="single_progress">
-            <div className="label d-flex justify-content-between">
-              <span>MonGoDB</span>
-              <span>90%</span>
-            </div>
-            <div className="progress">
-              <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={25} aria-valuemin={0} aria-valuemax={100} />
-            </div>
-          </div>
+          
           <div className="single_progress">
             <div className="label d-flex justify-content-between">
               <span>Express</span>
@@ -99,6 +101,35 @@ function Download() {
               <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={25} aria-valuemin={0} aria-valuemax={100} />
             </div>
           </div>
+          <div className="single_progress">
+            <div className="label d-flex justify-content-between">
+              <span>Typescript</span>
+              <span>90%</span>
+            </div>
+            <div className="progress">
+              <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={25} aria-valuemin={0} aria-valuemax={100} />
+            </div>
+          </div>
+          <div className="single_progress">
+            <div className="label d-flex justify-content-between">
+              <span>MonGoDB</span>
+              <span>90%</span>
+            </div>
+            <div className="progress">
+              <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={25} aria-valuemin={0} aria-valuemax={100} />
+            </div>
+          </div>
+
+          <div className="single_progress">
+            <div className="label d-flex justify-content-between">
+              <span>SQL, POstgres, Mysql, Sequelize</span>
+              <span>90%</span>
+            </div>
+            <div className="progress">
+              <div className="progress-bar" role="progressbar" style={{width: '90%'}} aria-valuenow={25} aria-valuemin={0} aria-valuemax={100} />
+            </div>
+          </div>
+
           <div className="single_progress">
             <div className="label d-flex justify-content-between">
               <span>Python(DjanGo)</span>
