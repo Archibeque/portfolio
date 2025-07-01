@@ -28,7 +28,7 @@ export const secondWorkData = [
     {
         img: "img/prime.jpg",
         name: "Crypto Trading App",
-        url: "https://prime-minners-nnadidaniel.koyeb.app/",
+        url: "https://prime-minners-nnadidaniel.koyeb.app",
         desc: "Prime Minners is a simple crypto trading app that allows users to invest in crypto currencies all from the comfort of a dashboard ",
         summary: "built with python(Django)"
     },
