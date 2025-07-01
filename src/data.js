@@ -7,7 +7,7 @@ export const workData = [
         summary: "built with mern stack(Mongodb, React, Node.js)",
     },
     {
-        img: "img/analytics.png",
+        img: "adminanalytics_nnadidan.png",
         name: "Admin Analytics",
         url: "https://adminanalyticsdashboard.netlify.app/",
         desc: "Admin Analytics dashboard is a dashboard that was created for the purpose of data visibility and insight.",
