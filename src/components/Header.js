@@ -192,7 +192,7 @@ function Header() {
                                                 Contact
                                                 </Link>
                                             </li>
-                                            <li><a target="_blank" href="GADS-Certificate2020.pdf">Certificate</a></li>
+                                            <li><a target="_blank" href="NNADI KEMAKOLAM DANIEL (1).pdf">Certificate</a></li>
 
                                         </ul>
                                     </nav>
